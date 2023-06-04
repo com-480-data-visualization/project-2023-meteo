@@ -1,0 +1,14 @@
+- [ ] Mean
+- [ ] Max
+- [ ] Sum => ???
+- [ ] Get data in the side panel
+- [ ] Get closest point
+- [ ] Display for each day
+- Find icons
+- [ ] Display graph
+- Recharts
+- Some kind of search
+- Find API
+
+- [x] Align overlay on map
+- [x] Time widget
